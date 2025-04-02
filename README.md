@@ -1,1 +1,1 @@
-# stablediffusion3lora
+# Lora training for sd3
